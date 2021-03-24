@@ -123,6 +123,26 @@ blockquote::before {
     padding-top: 4rem;
 }
 
+.px-1{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.px-2{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.py-1{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.py-2{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 .default-card-outline {
     box-shadow: 0px 15px 30px gray; 
 }
@@ -160,14 +180,15 @@ blockquote::before {
 
 #section1Text h1{
     color:var(--primary-color);
-    font-size: 3rem;
+    font-size: 1.8rem;
     font-weight: bolder;
     
 }
 #section1Text span{
     color:var(--light-color);
     font-weight: lighter;
-    font-size: 2rem;
+    font-size: 1rem;
+    display: block;
 }
 
 
