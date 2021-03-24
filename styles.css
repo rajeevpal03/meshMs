@@ -133,6 +133,11 @@ blockquote::before {
     padding-right: 2rem;
 }
 
+.py-0{
+    padding-top: 0.5rem;        
+    padding-bottom: 0.5rem;
+}
+
 .py-1{
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -176,6 +181,10 @@ blockquote::before {
 .section1 {
     display: flex;
     justify-content: space-between;
+}
+
+.section1 img{
+    height: 10%;
 }
 
 #section1Text h1{
