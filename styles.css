@@ -311,6 +311,18 @@ blockquote::before {
 
 @media(max-width:500px){
     
+    .text {
+        font-size: 1.5rem;
+        font-weight: 500px;
+        line-height: 2rem;
+    }
+
+    .text1 {
+        font-size: 1.5rem;
+        font-weight: 500px;
+        line-height: 2rem;
+    }
+    
     .section1{
         display: grid;
         grid-template-columns: repeat(1,1fr);
