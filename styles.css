@@ -362,7 +362,7 @@ blockquote::before {
     .section3 {
         
         grid-template-columns: 100%;
-        grid-template-rows: repeat(2,1fr)
+        grid-template-rows: repeat(2,0fr)
     }
 
 
