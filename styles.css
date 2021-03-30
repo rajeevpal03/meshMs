@@ -30,6 +30,11 @@ input[type="text"] {
     /* height: 108%; */
     height: 35px;
 }
+select{
+    width: 95%;
+    /* height: 108%; */
+    height: 35px;
+}
 
 img {
     max-width: 100%;
@@ -407,3 +412,5 @@ blockquote::before {
         margin:0 auto;
     }
 }
+
+
